@@ -1,0 +1,15 @@
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\bin\Debug\WebService31.dll.config
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\bin\Debug\WebService31.dll
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\bin\Debug\WebService31.pdb
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\bin\Debug\System.Net.Http.dll
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\bin\Debug\System.Net.Http.xml
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\obj\Debug\WebService31.dll
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\obj\Debug\WebService31.pdb
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\WebService31\obj\Debug\WCF-WebService.csprojResolveAssemblyReference.cache

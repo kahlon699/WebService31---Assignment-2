@@ -1,0 +1,11 @@
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\obj\Debug\WCF-ClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\obj\Debug\ClientSide.Form1.resources
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\obj\Debug\WCF-ClientSide.csproj.GenerateResource.Cache
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\obj\Debug\ClientSide.exe
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\obj\Debug\ClientSide.pdb
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\bin\Debug\Newtonsoft.Json.xml

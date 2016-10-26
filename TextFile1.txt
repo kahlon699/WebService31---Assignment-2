@@ -1,0 +1,125 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.ServiceModel;
+using System.Windows.Forms;
+using System.ServiceModel.Description;
+using REST.Controllers;
+using System.Net.Http;
+using System.Net.Http.Headers;
+
+
+namespace ClientSide
+{
+
+    public static class MyExtension
+    {
+        public static async Task<CustomClass> GetDataAsync(this HttpClient client, string path)
+        {
+            CustomClass cus = null;
+
+            client.BaseAddress = new Uri("http://localhost:41967/");
+
+            // Add an Accept header for JSON format.
+            client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+            HttpResponseMessage response = await client.GetAsync(path);
+            if (response.IsSuccessStatusCode)
+            {
+                cus = await response.Content.ReadAsAsync<CustomClass>();
+            }
+            return cus;
+        }
+    }
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox3.Clear();
+            comboBox2.Items.Clear();
+            comboBox3.Items.Clear();
+
+            comboBox2.Text = "";
+            comboBox3.Text = "";
+
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+
+
+
+        void Display()
+        {
+
+
+            HttpClient client = new HttpClient();
+            client.BaseAddress = new Uri("http://localhost:41967/");
+            string st = "api/default/" + textBox1.Text;
+
+            CustomClass cus = client.GetDataAsync(st).Result;
+
+
+
+            try
+            {
+                //CustomClass cus=  restclient.ConvertToArray("Jagmeet singh");
+                foreach (string s in cus.StrList)
+                {
+                    comboBox2.Items.Add(s);
+                }
+                textBox2.Text = cus.UpperCase;
+                textBox3.Text = cus.StringLength.ToString();
+                //CustomClass cus = new CustomClass();
+                var li = cus.WordLenList;
+                foreach (WordLength s in li)
+                {
+
+                    comboBox3.Items.Add(s.word + ", " + s.length);
+                }
+                comboBox2.SelectedIndex = 0;
+                comboBox3.SelectedIndex = 0;
+
+            }
+            catch (Exception er)
+            {
+                //string msg = "Error:" + er.Detail.Errorcode + "\n" + er.Detail.ErrorMsg;
+                MessageBox.Show(er.Message, "Error Message");
+            }
+
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+            comboBox2.Items.Clear();
+
+            Display();
+
+
+
+        }
+
+
+    }
+}
+
+

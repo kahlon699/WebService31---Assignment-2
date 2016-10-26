@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1da78ae9-a6fc-448f-8c88-d50eec10fcea" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/WebService31/Service1/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="b6cd7fef-30be-459e-96a7-7cc4108ee0d1" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WebService31/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="30c76148-a27b-42be-aac6-ee02e0e2405a" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WebService31/Service1/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="312f598d-883b-4794-96a0-f743ec2fe3ea" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WebService31/Service1/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="098f0567-9dc4-432a-8cbf-2e6f26d40773" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WebService31/Service1/mex" />
+    <MetadataFile FileName="WebService31.xsd" MetadataType="Schema" ID="4ab5dcd2-ca18-4728-946b-aa6aae3b2e46" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WebService31/Service1/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

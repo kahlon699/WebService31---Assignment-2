@@ -1,0 +1,22 @@
+c:\users\harpreet\documents\visual studio 2015\Projects\WebService31\ClientSide\bin\Debug\ClientSide.exe.config
+c:\users\harpreet\documents\visual studio 2015\Projects\WebService31\ClientSide\bin\Debug\ClientSide.exe
+c:\users\harpreet\documents\visual studio 2015\Projects\WebService31\ClientSide\bin\Debug\ClientSide.pdb
+c:\users\harpreet\documents\visual studio 2015\Projects\WebService31\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+c:\users\harpreet\documents\visual studio 2015\Projects\WebService31\ClientSide\obj\Debug\ClientSide.Form1.resources
+c:\users\harpreet\documents\visual studio 2015\Projects\WebService31\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+c:\users\harpreet\documents\visual studio 2015\Projects\WebService31\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+c:\users\harpreet\documents\visual studio 2015\Projects\WebService31\ClientSide\obj\Debug\ClientSide.exe
+c:\users\harpreet\documents\visual studio 2015\Projects\WebService31\ClientSide\obj\Debug\ClientSide.pdb
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31\ClientSide\bin\Debug\WebService31.dll
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31\ClientSide\bin\Debug\WebService31.pdb
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\obj\Debug\ClientSide.exe
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\obj\Debug\ClientSide.pdb
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\bin\Debug\WebService31.dll
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\bin\Debug\WebService31.pdb
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\obj\Debug\ClientSide.Form1.resources
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+C:\Users\Harpreet\Documents\Visual Studio 2015\Projects\WebService31 - Assignment 2\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
